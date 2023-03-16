@@ -6,7 +6,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },
@@ -16,7 +16,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },
@@ -26,7 +26,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },
@@ -36,7 +36,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },
@@ -46,7 +46,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },
@@ -56,7 +56,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },
@@ -66,7 +66,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },
@@ -76,7 +76,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },
@@ -86,7 +86,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -95,7 +95,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -104,7 +104,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -113,7 +113,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -122,7 +122,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -131,7 +131,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -140,7 +140,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -149,7 +149,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -158,7 +158,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -167,7 +167,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -176,7 +176,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -185,7 +185,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -194,7 +194,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -203,7 +203,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -212,7 +212,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -221,7 +221,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -230,7 +230,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -239,7 +239,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -248,7 +248,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   },{
@@ -257,7 +257,7 @@
     "type_of_room": "AC",
     "bed_type": "Double",
 		"no_of_persons":"2",
-		"capacity":"3".
+		"capacity":"3",
 		"cost":"4000",
 		"booked":false,
   }
